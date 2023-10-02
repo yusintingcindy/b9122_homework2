@@ -40,4 +40,6 @@ The process involves:
 (vi) if the condition in step (v) is met, checking if the press release contains the word "crisis" and if so, extracting the press release; 
 (vii) repeating steps (iv) to (vi) until there are no more web pages left in the list to visit;  
 (viii) going back to the starting web address and clicking on the "load more" button (if the button exists);  
-(ix) repeating steps (iv) to (viii) until 10 press releases have been extracted (or there is no longer a "load more" button on the start web page)
+(ix) repeating steps (iv) to (viii) until 10 press releases have been extracted (or there is no longer a "load more" button on the start web page)  
+
+THE END
